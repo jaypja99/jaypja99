@@ -24,7 +24,13 @@
    * [Smgplaza- Wordpress Blog](https://smgplaza.com/) (Sold in 13k)<Br>
    * [Swagblogger](https://swagblogger.com/) - Personal Wordpress Blog <Br>
 
-### <img src="https://www.flaticon.com/free-icon/design_881883?term=ui%20design&page=1&position=8&page=1&position=8&related_id=881883&origin=tag" width="28"> <Br>
+### 👨 UI/UX Projects <Br>
+   * Forbes - Android App Redesign (Prototype Only)<Br>
+   * Quizoo - The quiz app (Wireframe & Prototype) <Br>
+   * Musicy - Music App (Prototype Only)<br>
+   * Bakery mangement Software (Wireframe & Prototype) <br>
+   * Car Rent website (Wireframe & Prototype) <br>
+   * Shooping - The Android app (Wireframe & Prototype) <Br>
     
 ## 🙋‍♂️ Connect with me:
 
@@ -56,6 +62,9 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a></td>
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
+                        src="https://img.icons8.com/color/48/000000/firebase.png"" /></a>
             </td>
   </tr>
     </tbody>
