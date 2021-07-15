@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jay Patel</h1>
-<h3 align="center">I Love to Build Android App Ui And More.</h3>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Jay Patel</h1>
+<h3 align="center">I Love to Build Android App and UI</h3>
 
-- 👋 Hi, I’m Jay Patel 
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android App Development and Web Development
-- 📫 How to reach me ... 
+- 👨‍💼 I’m one of the founder of <a href="Swagblogger" target="blank"><img align="center" src="https://swagblogger.com/" alt="swagblogger" height="30" width="30" /></a>.
+- 👋 Hi, I’m Android Developer and ALso a Web Developer in Wordpress
+- 🎨 I'm a self-taught UI designer
+- 📱  I make apps for Android.
+- 🎓 I'm a Computer Science student (B.tech in U.v patel college of engineering)
+- 
   Twitter -  
 
 <!---
