@@ -9,6 +9,22 @@
 - 📱  I make apps for Android.
 - 🎓 I'm a Computer Science student (B.tech in U.v patel college of engineering)
 - 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCRh42d5zU_wPuWP8PjnFbWQ) and also in my website [Swagblogger](https://swagblogger.com/)
+- 🎉 I Got #AndroidDevChallenge PRIZE with #JetpackCompose! 
+
+
+<Br>
+<h1>Some of my personal Projects! 🎨</h1>
+    
+### 📱 Android Projects <Br>
+   * [Akshar](https://play.google.com/store/apps/details?id=com.akshar.app&hl=en_IN&gl=US) <Br>
+   * Quizoo - The quiz app<Br>
+
+### 🌐 Web Projects <Br>
+   * [Milestone Academy](https://www.themilestoneworld.com/) <Br>
+   * [Smgplaza- Wordpress Blog](https://smgplaza.com/) (Sold in 13k)<Br>
+   * [Swagblogger](https://swagblogger.com/) - Personal Wordpress Blog <Br>
+
+### <img src="https://www.flaticon.com/free-icon/design_881883?term=ui%20design&page=1&position=8&page=1&position=8&related_id=881883&origin=tag" width="28"> <Br>
     
 ## 🙋‍♂️ Connect with me:
 
@@ -20,8 +36,36 @@
 </p>
 
 
+## 👨‍💻 Languages and Tools:
+
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" /></a></td>
+            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="#"><img alt="Wordpress" title="Wordpress" height="28px"
+                        src="https://img.icons8.com/color/48/000000/wordpress.png" /></a></td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a></td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+  </tr>
+    </tbody>
+</table>
+
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCRh42d5zU_wPuWP8PjnFbWQ?sub_confirmation=1)
 
 <!---
+
 jaypja99/jaypja99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
