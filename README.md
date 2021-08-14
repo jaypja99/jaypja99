@@ -20,7 +20,7 @@
     
 ### 📱 Android Projects <Br>
    * [Akshar](https://play.google.com/store/apps/details?id=com.akshar.app&hl=en_IN&gl=US) <Br>
-   * Quizoo - The quiz app<Br>
+   * [Quizoo - The quiz app](https://github.com/jaypja99/Quizoo-The-quiz-app)<Br>
 
 ### 🌐 Web Projects <Br>
    * [Milestone Academy](https://www.themilestoneworld.com/) <Br>
